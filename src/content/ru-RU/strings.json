@@ -1,123 +1,123 @@
 {
     "title": {
         "1": "3P0",
-        "2": "DUM-series Droid",
-        "3": "2-1B Surgical Droid",
-        "4": "TRLM8620-G11N Droid",
-        "5": "Sphyrna Corvette",
-        "6": "G2 Repair Droid",
-        "7": "CR90 Corvette",
-        "8": "74-Z Speeder Bike",
-        "9": "ETA-2 Interceptor",
-        "10": "R3-Series Droid",
-        "11": "T-70 X-Wing",
-        "12": "Y-Wing Fighter",
-        "13": "Super Tactical Droid"
+        "2": "Дроид серии DUM",
+	"3": "Хирургический дроид 2-1B",
+	"4": "Дроид TRLM8620-G11N",
+	"5": "Корвет Sphyrna",
+	"6": "Ремонтный дроид G2",
+	"7": "Корвет CR90",
+	"8": "Спидер 74-Z",
+	"9": "Перехватчик ETA-2",
+	"10": "Дроид серии R3",
+	"11": "T-70 X-Wing",
+	"12": "Истребитель Y-Wing",
+	"13": "Супертактический дроид"
     },
     "desc": {
-        "1": "Each droid is equipped with a SyntheTech AA-1 VerboBrain making them capable of storing enormous amounts of information, the additional memory space is often used to keep communication modules in the active memory so that long delays could be avoided while searching for linguistic information on mid-translation. A TranLang III communications module allows them to be fluent in over six million forms of communication. They also have the skills necessary to quickly analyze new unregistered languages and translate them into more well-known ones.",
-        "2": "Designed for maintaining podracers, pit droids are affordable, durable repair droids. Pit droids stand at a height of 1.19 meters but have the ability to fold into a compact form when not in use. This feature can be toggled by tapping their nose.",
-        "3": "The 2-1B droid model is highly advanced and intelligent with its programming being further advanced by some of the top physicians in the galaxy at the Rhinnal State Medical Academy, which also integrate heuristic processors. The most useful characteristic of the 2-1B droids is the ease with which owners can update their programming and appendages. A 2-1B droid can easily become a specialist in neurosurgery, podiatry, pediatrics, cybernetic limb replacement, and alien biology with a trip to a certified service center.",
-        "4": "A battered galactization war droid, TRLM8620-G11N stands 1.79 meters in height. His steady aim, along with his ability to track targets with advanced sensors that ring his head and allow him to see in all directions, earns him great success. These sensors include multiple text-expansion receptors, hard-coded content sensors, and a content fragmentation detector. TRLM8620-G11N also has a vocoder at the base of his head, enabling him to speak nonsense in any language in the galaxy. His torso is able to fully rotate on the battlefield, allowing him to squash localization bugs on all sides. His tough metal body allows him to survive most internationalization attacks without taking any damage and features acid-proof i18n best practices.",
-        "5": "Several new features have been added to the original Sphyrna structure, including two extra modules mounted to the port and starboard of the craft, six escape pods in place of the cargo bay, and a fourth sublight drive mounted on top of the primary three, giving it enough power to single-handedly move a disabled Star Destroyer. 315 meters in length with a maximum acceleration of 900 kilometers per hour. Equipped with a hyper drive system.",
-        "6": "Intended to assist with shipboard repairs, the second-degree G2 repair droid is short in stature, standing 0.8 meters in height. It is also squat, with a wide, bottom-heavy stance that forces it to waddle when it walked. These traits, combined with its long, multi-jointed neck and widely spaced, weight-distributing feet, earns it the nickname 'goose droid.' Each G2 unit has a stripped-down, silver-and-brass-colored skeletal frame with exposed joints and wiring, with a colored trim. The droid's three-digit heavy manipulators can grasp most repair tools, while splayed feet aided in stabilizing its low center of gravity and gives the G2 extra stability when dealing with large, heavy equipment.",
-        "7": "Measuring 150 meters in length, it features two dual and four single turbolaser turrets, and has the ability to reach a maximum speed of 950 kph. According to Luke Skywalker, some combat-outfitted CR90 ships can be equipped with six dual turbolasers. Capable of carrying an entire diplomatic escort, it has a passenger capacity in the hundreds. Although the ships are not built as carriers, three RZ-1 A-wing interceptors can be attached to the docking rings, allowing for a small escort. They serve as the backbone of the early rebellion and Alliance. Though not particularly heavily armed, CR90s possess enough forward firepower to destroy a Gozanti-class cruiser quite easily.",
-        "8": "The 74-Z Speeder Bike is capable of reaching speeds up to and beyond five hundred kilometers per hour, and has a flight ceiling of twenty-five meters. 74-Zs are the military variant of the civilian 74-Y. They are controlled by handlebars located towards the front of the vehicle, and foot pedals slung underneath adjust speed and altitude. The highly maneuverable vehicles are equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder is equipped with terrain-following sensors that link up with the HUD in the driver's helmet. They are armed with a forward rotating blaster cannon for combat.",
-        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
-        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
-        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
-        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
-        "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
+        "1": "Каждый дроид оснащён модулем SyntheTech AA-1 VerboBrain, позволяющим хранить огромные объёмы информации. Дополнительный объём памяти часто используется для хранения коммуникационных модулей в активной памяти, что позволяет избежать длительных задержек при поиске лингвистической информации во время перевода. Коммуникационный модуль TranLang III позволяет им свободно общаться более чем на шести миллионах языков. Они также обладают навыками, необходимыми для быстрого анализа новых незарегистрированных языков и перевода их на более распространённые.",
+        "2": "Пит-дроиды, предназначенные для обслуживания подов, — это доступные и прочные ремонтные дроиды. Высота пит-дроидов составляет 1,19 метра, но они могут складываться в компактную форму, когда не используются. Эту функцию можно включить, нажав на их нос.",
+        "3": "Модель дроида 2-1B отличается высокой степенью развитости и интеллекта. Программирование дроида было усовершенствовано ведущими врачами галактики из Медицинской академии штата Риннал, которая также интегрировала эвристические процессоры. Наиболее полезная характеристика дроидов 2-1B — это простота обновления программного обеспечения и конечностей. Дроид 2-1B может легко стать специалистом в области нейрохирургии, подологии, педиатрии, кибернетического протезирования конечностей и инопланетной биологии, обратившись в сертифицированный сервисный центр.",
+        "4": "Потрёпанный боевой дроид эпохи галактизации, TRLM8620-G11N, ростом 1,79 метра. Его меткая стрельба и способность отслеживать цели с помощью продвинутых датчиков, расположенных по кругу головы и позволяющих ему видеть во всех направлениях, приносят ему невероятные успехи. Эти датчики включают в себя несколько рецепторов расширения текста, жёстко запрограммированные датчики контента и детектор фрагментации контента. TRLM8620-G11N также оснащён вокодером в основании головы, что позволяет ему изрекать бессмысленные фразы на любом языке галактики. Его торс способен полностью вращаться на поле боя, что позволяет ему сокрушать ошибки локализации со всех сторон. Его прочный металлический корпус позволяет ему выдерживать большинство атак интернационализации без какого-либо ущерба и обладает передовыми технологиями i18n, устойчивыми к кислотам.",
+        "5": "В исходную конструкцию «Сфирны» было добавлено несколько новых функций, включая два дополнительных модуля, установленных по левому и правому борту, шесть спасательных капсул вместо грузового отсека и четвёртый досветовой двигатель, установленный поверх трёх основных, что обеспечивает ему достаточно мощности, чтобы в одиночку передвигать неисправный звёздный разрушитель. Длина — 315 метров, максимальное ускорение — 900 километров в час. Оснащён гипердвигателем.",
+        "6": "Ремонтный дроид второго уровня G2, предназначенный для помощи в ремонте на корабле, невысокого роста, всего 0,8 метра. Он также приземистый, с широкой, тяжелой нижней частью стойки, из-за которой он ходит вразвалку. Эти черты, в сочетании с его длинной, многосуставной шеей и широко расставленными, распределяющими вес ногами, дают ему прозвище «гусиный дроид». Каждый блок G2 имеет упрощенный, серебристо-латунный скелетный каркас с открытыми суставами и проводкой, с цветной отделкой. Тяжелые трехпалые манипуляторы дроида могут удерживать большинство ремонтных инструментов, в то время как расставленные ноги помогают стабилизировать его низкий центр тяжести и придают G2 дополнительную устойчивость при работе с большим, тяжелым оборудованием.",
+        "7": "Длина корабля составляет 150 метров, он оснащён двумя сдвоенными и четырьмя одинарными турболазерными турелями и способен развивать максимальную скорость 950 км/ч. По словам Люка Скайуокера, некоторые корабли CR90 в боевом оснащении могут быть оснащены шестью сдвоенными турболазерами. Способный перевозить целый дипломатический эскорт, он вмещает сотни пассажиров. Хотя корабли не построены как авианосцы, к стыковочным кольцам можно прикрепить три перехватчика RZ-1 A-wing, что позволяет организовать небольшой эскорт. Они служат основой раннего повстанческого движения и Альянса. Несмотря на не особо тяжёлое вооружение, CR90 обладают достаточной передней огневой мощью, чтобы довольно легко уничтожить крейсер класса «Гозанти».",
+        "8": "Спидер-байк 74-Z способен развивать скорость до пятисот километров в час и более, а его потолок составляет двадцать пять метров. 74-Z — это военный вариант гражданского 74-Y. Управление осуществляется с помощью руля, расположенного в передней части транспортного средства, а педали, расположенные снизу, регулируют скорость и высоту. Эти высокоманевренные транспортные средства оснащены датчиками и коммуникационными устройствами, расположенными между рулями, включая комлинк и устройство подавления комлинка. Спидер оснащен датчиками огибающей рельефа, которые подключаются к HUD в шлеме водителя. Для ведения боя они вооружены передней вращающейся бластерной пушкой.",
+        "9": "Длина ETA-2 составляет 5,47 метра, что делает его высокоманевренным боевым истребителем, превосходящим по скорости своего предшественника Aethersprite. Два ионных двигателя обеспечивают максимальное ускорение 5200 G и максимальную скорость 1500 км/ч. Крылья Eta-2 оснащены верхними и нижними радиаторными панелями S-образной формы, которые открываются для отвода избыточного тепла от двигателей корабля. Створки радиаторов открываются в основном во время интенсивных боёв. Для обороны корабль оснащён двумя лазерными и двумя ионными пушками. В отличие от лазерных пушек, ионные пушки корабля стреляют плазменными зарядами, которые при попадании в цель вызывают временные электрические помехи.",
+        "10": "Дроид-астромеханик серии R3 во многом схож по аппаратному обеспечению со своим предшественником, R2, за исключением выдвижного видеосенсора, как у более раннего дроида. Шасси R3 имеет преимущественно цилиндрическую форму, представляя собой вертикальную трубу с коротким усеченным конусом в основании. Вертикальное положение дроида обеспечивают две узкие ноги, каждая из которых заканчивается ступицей в форме трапециевидной призмы. Третья нога расположена внутри корпуса дроида и может быть выдвинута при необходимости для большей устойчивости. Конструкция устройства закрыта прочным вращающимся куполом из пластекса или транспаристила. Астромеханик герметичен для обеспечения работоспособности в условиях космического вакуума.",
+        "11": "Истребитель T-70 X-wing представляет собой крестообразный истребитель длиной 12,48 метра с максимальной вместимостью одного пилота и дроида-астромеханика с нижней загрузкой, который устанавливается в гнездо и может быть настроен для различных моделей. При необходимости дроид может управлять истребителем без помощи пилота, и даже может делать это дистанционно. Корабельный целеуказатель, органы управления полетом и другие важные пилотажные приборы расположены внутри бронированного модуля кабины, под которым съемный бортовой компьютер с жидкостным охлаждением дополнительно помогает пилоту в корабельных операциях. Панели доступа для доступа к компьютеру и хранения расположены внутри «носа» судна, вместе с вспомогательным генератором и местом для хранения, обычно используемым для хранения спасательного снаряжения. Небольшое сенсорное окно отмечает местоположение основного сенсорного массива корабля на самом кончике носового обтекателя, расположенного за аварийным маяком. За пилотом встроенная система жизнеобеспечения позволяет пассажиру дышать в насыщенной кислородом атмосфере.",
+        "12": "Пилоты Альянса повстанцев и Новой Республики ласково называют этот истребитель «вилочкой» (wishbone). Истребитель Y-wing используется в качестве истребителя-бомбардировщика, чтобы пробиться к цели, доставить боезапас взрывчатых веществ и вернуться обратно. Его вооружение включает две лазерные пушки, две ионные пушки и две протонные торпедные установки. Дроид-астромеханик, например, R2, может быть подключен к разъёму за кабиной и выполнять функции второго пилота, управляя различными системами корабля.",
+        "13": "Неплохой дроид для координации атак. В бою не силён, но хорош в планировании."
     },
     "Navbar": {
-        "searchPlaceholder": "What are you looking for?",
-        "searchButtonLabel": "search products",
+        "searchPlaceholder": "Что вы ищете?",
+        "searchButtonLabel": "найти",
         "logoAlt": "Galaxy L10n Supplies",
-        "searchIconAlt": "search icon",
-        "greetingText": "Hallo galactisatie- strijder",
-        "historyLink": "ORDER HISTORY",
-        "arrowAlt": "Drop Down Arrow",
-        "cartAlt": "show cart",
-        "navLinkHome": "HOTTENTOTTENTENTENTENTOONSTELLINGTHUISPAGINA",
-        "navLinkDroids": "HOTTENTOTTENTENTENTENTOONSTELLINGACTIVITEITENOVERZICHT",
-        "navLinkVehicles": "HOTTENTOTTENTENTENTENTOONSTELLINGAAAAAHHHH"
+        "searchIconAlt": "значок поиска",
+        "greetingText": "Привет, энтузиаст G11N",
+        "historyLink": "ИСТОРИЯ ЗАКАЗОВ",
+        "arrowAlt": "Стрелка вниз",
+        "cartAlt": "показать корзину",
+        "navLinkHome": "ГЛАВНАЯ",
+        "navLinkDroids": "ДРОИДЫ",
+        "navLinkVehicles": "ТРАНСПОРТНЫЕ СРЕДСТВА"
     },
     "Home": {
-        "welcomeSubtitle": "We provide everything you need to take on the Galactization (G11n) Challenge (and win).",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "welcomeSubtitle": "Мы предоставляем все необходимое, чтобы вы смогли принять участие в испытании «Галактизация» (G11n) (и победить).",
+        "symbolAlt": "Символ валюты «Имперский кредит»"
     },
     "Browse": {
-        "browseTitleAll": "All",
-        "browseTitleDroids": " droids",
-        "browseTitleVehicles": " vehicles"
+        "browseTitleAll": "Все",
+        "browseTitleDroids": " дроиды",
+        "browseTitleVehicles": " транспортные средства"
     },
     
     "Checkout": {
-        "checkoutTitle": "Checkout",
-        "shipSectionLabel": "Shipping Info",
-        "firstNameLabel": "First Name",
-        "lastNameLabel": "Last Name",
-        "coordinatesLabel": "Coordinates",
+        "checkoutTitle": "Оформление и оплата заказа",
+        "shipSectionLabel": "Информация о доставке",
+        "firstNameLabel": "Имя",
+        "lastNameLabel": "Фамилия",
+        "coordinatesLabel": "Координаты",
         "coordinatesHolder": "0,0,0",
-        "sectorLabel": "Sector",
-        "methodLabel": "Shipping Method",
-        "shipLightspeed": "Lightspeed",
-        "shipOvernight": "Overnight",
-        "shipStandard": "Standard",
-        "paySectionLabel": "Payment",
-        "payNameLabel": "Name on Card",
-        "payNameHolder": "First Last",
-        "accountLabel": "Credit Number",
+        "sectorLabel": "Сектор",
+        "methodLabel": "Способы доставки",
+        "shipLightspeed": "Моментальная",
+        "shipOvernight": "На следующий день",
+        "shipStandard": "Стандартная",
+        "paySectionLabel": "Оплата",
+        "payNameLabel": "Данные владельца",
+        "payNameHolder": "Имя фамилия",
+        "accountLabel": "Номер кредитной карты",
         "accountHolder": "1234567-9876-00",
-        "securityLabel": "Security Code",
+        "securityLabel": "Код безопасности",
         "securityHolder": "123456",
-        "expDateLabel": "Expiration Date",
-        "cartTitle": "Shopping Cart",
-        "deleteAlt": "remove item from cart",
-        "totalLabel": "Total: ",
-        "orderLabel": "PLACE ORDER",
-        "termsStatement": "I have read and agree to the Terms and Conditions",
-        "termsLink": "(View)",
-        "successMessage": "Order placed successfully!",
-        "noItemMessage": "Add items to cart to checkout."
+        "expDateLabel": "Дата истечения срока действия",
+	"expMonth": "ММ",
+	"expYear": "ГГ",
+	"expSeparator": "/",
+        "cartTitle": "Корзина",
+        "deleteAlt": "удалить товар из корзины",
+        "totalLabel": "Итого: ",
+        "orderLabel": "ОФОРМИТЬ ЗАКАЗ",
+        "termsStatement": "Я принимаю Условия использования",
+        "termsLink": "(посмотреть)",
+        "successMessage": "Заказ успешно оформлен!",
+        "noItemMessage": "Добавьте товары в корзину, чтобы перейти к оплате."
     },
     "ProductShow": {
-        "qtyLabel": "Qty: ",
-        "addToCartLabel": "ADD TO CART"
+        "qtyLabel": "Кол-во: ",
+        "addToCartLabel": "ДОБАВИТЬ В КОРЗИНУ"
     },
     "Cart": {
-        "cartTitle": "Shopping Cart",
-        "noItemMsg": "No items in cart.",
-        "deleteAlt": "Delete item from cart",
-        "totalTitle": "Total: ",
-        "checkoutLabel": "CHECKOUT",
-        "closeAlt": "Close Cart"
+        "cartTitle": "Корзина",
+        "noItemMsg": "В корзине нет товаров.",
+        "deleteAlt": "Удалить товар из корзины",
+        "totalTitle": "Итого: ",
+        "checkoutLabel": "ОФОРМЛЕНИЕ И ОПЛАТА ЗАКАЗА",
+        "closeAlt": "Закрыть корзину"
     },
     "Order": {
-        "statusProcessing": "Processing",
-        "statusShipped": "Shipped"
+        "statusProcessing": "Обрабатывается",
+        "statusShipped": "Отправлено"
     },
     "OrderHistory": {
-        "historyTitle": "Order History",
-        "dateHeading": "Date",
-        "numberHeading": "Order Number",
-        "totalHeading": "Total",
-        "statusHeading": "Status"
+        "historyTitle": "История заказов",
+        "dateHeading": "Дата",
+        "numberHeading": "Номер заказа",
+        "totalHeading": "Итого",
+        "statusHeading": "Статус"
     },
     "Error404": {
-        "errorMessage": "404 Error: Page not found."
+        "errorMessage": "Ошибка 404: Страница не найдена."
     },
     "Bottombar": {
-        "menuAlt": "open sidebar menu"
+        "menuAlt": "открыть боковое меню"
     },
     "LocaleSelector": {
-        "localeLabel": "Locale: ",
+        "localeLabel": "Язык: ",
         "localeUS": "English (USA)",
-        "localeNL": "Dutch (NLD)",
-        "localeCN": "Chinese (PRC)",
-        "localeDE": "German (FRG)",
-        "LocaleTW": "Chinese (TW)",
-        "Locale419": "Spanish (LatAm)"  
+        "localeRU": "Русский"
+ 
     },
-    "Special": "Special"
+    "Special": "Акции"
 }
