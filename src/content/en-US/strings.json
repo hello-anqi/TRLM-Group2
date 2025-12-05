@@ -111,7 +111,7 @@
         "menuAlt": "open sidebar menu"
     },
     "LocaleSelector": {
-        "localeLabel": "Locale: ",
+        "localeLabel": "Language: ",
         "localeUS": "English (USA)",
         "localeRU": "Русский"
           
