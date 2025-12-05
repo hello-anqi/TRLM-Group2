@@ -34,13 +34,13 @@
         "searchButtonLabel": "search products",
         "logoAlt": "Galaxy L10n Supplies",
         "searchIconAlt": "search icon",
-        "greetingText": "Hallo galactisatie- strijder",
+        "greetingText": "Hello G11N Warrior",
         "historyLink": "ORDER HISTORY",
         "arrowAlt": "Drop Down Arrow",
         "cartAlt": "show cart",
-        "navLinkHome": "HOTTENTOTTENTENTENTENTOONSTELLINGTHUISPAGINA",
-        "navLinkDroids": "HOTTENTOTTENTENTENTENTOONSTELLINGACTIVITEITENOVERZICHT",
-        "navLinkVehicles": "HOTTENTOTTENTENTENTENTOONSTELLINGAAAAAHHHH"
+        "navLinkHome": "HOME",
+        "navLinkDroids": "DROIDS",
+        "navLinkVehicles": "VEHICLES"
     },
     "Home": {
         "welcomeSubtitle": "We provide everything you need to take on the Galactization (G11n) Challenge (and win).",
