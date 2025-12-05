@@ -98,7 +98,8 @@
     },
     "Order": {
         "statusProcessing": "Обрабатывается",
-        "statusShipped": "Отправлено"
+        "statusShipped": "Отправлено",
+        "statusDelivered": "Доставлено"
     },
     "OrderHistory": {
         "historyTitle": "История заказов",

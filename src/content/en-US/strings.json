@@ -95,7 +95,8 @@
     },
     "Order": {
         "statusProcessing": "Processing",
-        "statusShipped": "Shipped"
+        "statusShipped": "Shipped",
+        "statusDelivered":"Delivered"
     },
     "OrderHistory": {
         "historyTitle": "Order History",
@@ -103,6 +104,7 @@
         "numberHeading": "Order Number",
         "totalHeading": "Total",
         "statusHeading": "Status"
+        
     },
     "Error404": {
         "errorMessage": "404 Error: Page not found."
