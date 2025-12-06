@@ -51,7 +51,7 @@ let Checkout = {
         <section class="checkout">
 
             <div class="checkoutDetails">
-                <h2 class="center">Students: Please ignore any i18n errors on this page! (Incl. name order, date input, etc.)</h2>
+                
                 <h1>${checkoutTitle}</h1>
                 <div class="shippingInfo">
                     <h2>${shipSectionLabel}</h2>
